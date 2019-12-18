@@ -1,6 +1,21 @@
 # CV_
-## haze_rm_guided_filter
 
-通过学习何凯明老师关于guided-filter的研究, 做了以下工作. 并将其应用到现实中的去雾, 并在HFUT取景实验. 
+## guided_filter
 
-[guided_filter_学习笔记](https://blog.csdn.net/weixin_43258901/article/details/102714074)
+Learning **Guided Image Filter** in PAMI 2013, code is upload. To check, go to the following direction.
+
+> ./guided_filter
+
+## haze_rm_HFUT
+
+Implementation of **Single Image Haze Removal Using Dark Channel Prior** in CVPR 2009. To check, go to the following direction.
+
+> ./haze_rm_HFUT
+
+To learn more about the two above, check [CV toolbox (1) - guided filter](https://www.cnblogs.com/litun/p/11932104.html).
+
+## bilateral filter
+
+To learn more about bilateral filter, check [CV toolbox (2) - bilateral filter](https://www.cnblogs.com/litun/p/11932103.html).
+
+Code is released in **numeric tour**.
